@@ -1,0 +1,17 @@
+c:\users\joshua bufi\onedrive\文档\visual studio 2013\Projects\Thesis\Thesis\bin\Debug\Thesis.exe.config
+c:\users\joshua bufi\onedrive\文档\visual studio 2013\Projects\Thesis\Thesis\bin\Debug\Thesis.exe
+c:\users\joshua bufi\onedrive\文档\visual studio 2013\Projects\Thesis\Thesis\bin\Debug\Thesis.pdb
+c:\users\joshua bufi\onedrive\文档\visual studio 2013\Projects\Thesis\Thesis\bin\Debug\Thesis.xml
+c:\users\joshua bufi\onedrive\文档\visual studio 2013\Projects\Thesis\Thesis\obj\Debug\Thesis.Resources.resources
+c:\users\joshua bufi\onedrive\文档\visual studio 2013\Projects\Thesis\Thesis\obj\Debug\Thesis.vbproj.GenerateResource.Cache
+c:\users\joshua bufi\onedrive\文档\visual studio 2013\Projects\Thesis\Thesis\obj\Debug\Thesis.exe
+c:\users\joshua bufi\onedrive\文档\visual studio 2013\Projects\Thesis\Thesis\obj\Debug\Thesis.xml
+c:\users\joshua bufi\onedrive\文档\visual studio 2013\Projects\Thesis\Thesis\obj\Debug\Thesis.pdb
+C:\Users\Joshua Bufi\OneDrive\文档\visual studio 2013\Projects\Thesis\Thesis\obj\Debug\Thesis.AddItems.resources
+C:\Users\Joshua Bufi\OneDrive\文档\visual studio 2013\Projects\Thesis\Thesis\obj\Debug\Thesis.frmLogin.resources
+C:\Users\Joshua Bufi\OneDrive\文档\visual studio 2013\Projects\Thesis\Thesis\obj\Debug\Thesis.Mainform.resources
+C:\Users\Joshua Bufi\OneDrive\文档\visual studio 2013\Projects\Thesis\Thesis\obj\Debug\Thesis.frmInventory.resources
+C:\Users\Joshua Bufi\OneDrive\文档\thesis copy\Thesis\Thesis\bin\Debug\Thesis.exe.config
+C:\Users\Joshua Bufi\OneDrive\文档\thesis copy\Thesis\Thesis\obj\Debug\Thesis.exe
+C:\Users\Joshua Bufi\OneDrive\文档\thesis copy\Thesis\Thesis\obj\Debug\Thesis.xml
+C:\Users\Joshua Bufi\OneDrive\文档\thesis copy\Thesis\Thesis\obj\Debug\Thesis.pdb
